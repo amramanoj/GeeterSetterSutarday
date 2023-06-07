@@ -5,7 +5,7 @@ public class Java extends Tcg{
 
     public void setvalue(){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter usergfg name");
+        System.out.println("Enter usfergfg name");
         String name_user=sc.nextLine();
 
         System.out.println("Enter user code");
